@@ -79,7 +79,7 @@ function draw() {
 
 
 }else{ 
-  background("green")
+  background("black")
 
 
     }
